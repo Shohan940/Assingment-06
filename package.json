@@ -3,19 +3,15 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-
-  "homepage": "https://Shohan940.github.io/Assingment-06",
-
+  "homepage": "https://shohan940.github.io/Assingment-06",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-
   "dependencies": {
     "@tailwindcss/vite": "^4.2.2",
     "react": "^19.2.4",
