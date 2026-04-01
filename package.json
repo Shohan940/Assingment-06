@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://shohan940.github.io/Assingment-06",
+  "homepage": "https://Shohan940.github.io/Assingment-06",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
