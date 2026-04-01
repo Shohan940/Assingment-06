@@ -15,7 +15,7 @@ function App() {
 
  
   useEffect(() => {
-    fetch(`${import.meta.env.BASE_URL}Data.json`)
+    fetch(`${import.meta.env.BASE_URL}../public/Data.json`)
       .then(res => res.json())
       .then(data => setData(data))
       .catch(err => console.log(err));
